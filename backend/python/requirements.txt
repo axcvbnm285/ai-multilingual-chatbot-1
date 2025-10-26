@@ -1,0 +1,8 @@
+speechrecognition
+deep-translator
+python-dotenv
+perplexityai
+gtts
+playsound
+pyaudio
+requests
